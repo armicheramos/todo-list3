@@ -28,13 +28,11 @@ End with an example of getting some data out of the system or using it for a lit
 ## Deployment.
 Add aditional notes to deploy this on a live system.
 
-## Built with.
-- [Contributor Covenant](https://www.google.com/) Used for the Code of Conduct.
-- [Creative Commons](https://www.google.com/) Used to choose the license.
+## Built with
+- **Programmer A** - *Provided README Templeate* - [Profile A](https://github.com/profile A)
+- **Programmer B** - *Provided README Templeate* - [Profile B](https://github.com/profile B)
 
-## Authors.
+See also the list of [contributors](https://codespaceacademy.com/) who partipated in this project
 
-- **Programmer A** - *Provided README Templeate* - [Armiche Ramos](https://github.com/armicheramos)
-- **Programmer B** - *Provided README Templeate* - [Ismael Boule](https://github.com/IsmaelBoule)
-
-.
+## License
+This project is licensed under the [CCO 1.0 Universal](https://codespaceacademy.com/) Creative Commons License - see the [LICENSE.md](https://codespaceacademy.com/) file for details.
