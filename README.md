@@ -29,6 +29,9 @@ End with an example of getting some data out of the system or using it for a lit
 Add aditional notes to deploy this on a live system.
 
 ## Built with
+- [Contributor Covenant](https://www.markdownguide.org/cheat-sheet/) - Used for the Code of Conduct
+- [Creative Commons](https://www.markdownguide.org/cheat-sheet/) - Used to choose the license
+## Authors
 - **Programmer A** - *Provided README Templeate* - [Profile A](https://github.com/profile A)
 - **Programmer B** - *Provided README Templeate* - [Profile B](https://github.com/profile B)
 
