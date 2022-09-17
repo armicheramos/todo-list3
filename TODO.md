@@ -7,7 +7,7 @@ This is the checklist of tasks to make a good readme:
   - [x] Description
   - [x] Getting started
     - [x] Prerrequisites
-    - [ ] Installing
+    - [x] Installing
   - [ ] Deployment
   - [ ] Built with
   - [ ] Authors
