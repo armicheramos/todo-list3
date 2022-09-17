@@ -6,7 +6,7 @@ This is the checklist of tasks to make a good readme:
 - [x] Project title
   - [x] Description
   - [x] Getting started
-    - [ ] Prerrequisites
+    - [x] Prerrequisites
     - [ ] Installing
   - [ ] Deployment
   - [ ] Built with
